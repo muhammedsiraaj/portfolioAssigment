@@ -1,0 +1,73 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+  }
+  
+  .hero {
+    height: 100vh;
+    background: url('') center/cover no-repeat;
+    color: white;
+  }
+  
+  .highlight {
+    color: #08947a;
+  }
+  
+  #portfolio .project-item {
+    margin-bottom: 30px;
+  }
+  
+  #contactForm input, #contactForm textarea {
+    margin-bottom: 15px;
+  }
+  
+  footer {
+    background-color: #222;
+    color: white;
+    padding: 15px 0;
+  }
+  
+  #hero-container h1{
+    color: #222;
+    font-size: 50px;
+  }
+  #hero-container p{
+    color: #222;
+    font-size: 25px;
+  }
+  
+  .naaav{
+    background: #07666b;
+  
+  }
+  .hero-container p{
+   color: #222;
+  }
+  .hero-container a{
+    background-color: #07666b;
+  }
+  .bio p{
+   padding-bottom: 30px;
+  }
+  
+  #icons a{
+   font-size: 30px;
+   text-decoration: none;
+   color: #07666b;
+   padding: 8px;
+  }
+  
+  #icons a:hover{
+    transform: rotate3d(0,0,1, 360deg);
+    color: #15ae67;
+  }
+  .card a{
+    text-decoration: none;
+    color: #07666b;
+  }
+  .card a:hover{
+    color: #000000;
+  }
+  .card{
+    box-shadow: 3px 0px 15px 0px ;
+  }
